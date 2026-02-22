@@ -57,12 +57,5 @@ O projeto resultou em:
 
 ---
 
-## Acesso ao Notebook
-
-Notebook criado na plataforma NotebookLM:
-https://notebooklm.google.com/notebook/9101db64-65e9-4978-8e17-8880121b96e8
-
----
-
 Desenvolvido por Mateus Louis  
 Bootcamp Bradesco - GenAI & Dados | DIO
