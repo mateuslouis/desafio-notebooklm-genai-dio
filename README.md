@@ -74,14 +74,14 @@ O projeto resultou em:
 **Prompt 1 – Análise das transformações tecnológicas**
 ![Prompt 1](assets/Prompt_1.png)
 
-**Prompt 2 – Habilidades Humanas Essenciais para Evitar a Automação**
+**Prompt 2 – Habilidades humanas essenciais para evitar a automação**
 ![Prompt 2](assets/Prompt_2.png)
 
 ---
 
 ### 🎤 Apresentação Final
 
-**Guia de Carreiras Pormissoras - 2026**
+**Guia de Carreiras Promissoras - 2026**
 
 📎 [Baixar apresentação completa](assets/Apresentação_2026_Career_Roadmap.pdf)
 
