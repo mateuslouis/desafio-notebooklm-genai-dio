@@ -1,13 +1,13 @@
-# Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
+# 🚀 Acelere sua Aprendizagem com IA: Explore o Poder do NotebookLM
 
-## Sobre o Projeto
+## 📌 Sobre o Projeto
 Projeto desenvolvido no bootcamp **Bradesco - GenAI & Dados**, promovido pela **DIO**.
 
 O desafio consistiu na criação de um caderno temático no NotebookLM utilizando fontes abertas para desenvolver um mini guia estruturado com apoio de IA Generativa.
 
 ---
 
-## Objetivo
+## 🎯 Objetivo
 
 O modelo foi instruído a atuar como um palestrante de universidade em uma escola. A palestra foi apresentada a um grupo de estudantes que estão prestes a se formar no ensino médio.
 O tema da palestra foi:
@@ -16,13 +16,13 @@ O tema da palestra foi:
 
 ---
 
-## Fontes de vídeo utilizadas: 
+## 🎬 Fontes de vídeo utilizadas: 
 
 - https://www.youtube.com/watch?v=cIcmpezpaCk
 - https://www.youtube.com/watch?v=gjzcSl3ZqJw
 - https://youtu.be/rODZ-lrYUo0?list=TLGG70BrkbifX2MyMjAyMjAyNg
 
-## Fontes de texto utilizadas: 
+## 📖 Fontes de texto utilizadas: 
 
 - https://guiadoestudante.abril.com.br/orientacao-profissional/10-profissoes-em-alta-para-apostar-em-2026/
 - https://news.linkedin.com/2026/2026-Davos-Press-Release
@@ -33,7 +33,7 @@ O tema da palestra foi:
 
 ---
 
-## Estratégia de Prompts
+## 💬 Estratégia de Prompts
 
 Exemplos utilizados:
 
@@ -44,7 +44,7 @@ Exemplos utilizados:
 
 ---
 
-## 📖 Resultado Final
+## ✅ Resultado Final
 
 O projeto resultou em:
 
@@ -54,6 +54,36 @@ O projeto resultou em:
 - Modelo de apresentação
 - Conjunto de prompts reutilizáveis
 - Aplicação prática de IA como ferramenta de aprendizagem ativa
+
+---
+
+## 📁 Arquivos do Projeto (Pasta assets)
+
+### 📊 Infográficos Gerados
+
+**Infográfico 1 – Guia Para as Carreiras de Maior Sucesso**
+![Infográfico 1](assets/Infográfico_1.png)
+
+**Infográfico 2 – As Profissões e Tendências que Vão Dominar o Mercado**
+![Infográfico 2](assets/Infográfico_2.png)
+
+---
+
+### 💬 Prints dos Prompts Utilizados
+
+**Prompt 1 – Análise das transformações tecnológicas**
+![Prompt 1](assets/Prompt_1.png)
+
+**Prompt 2 – Habilidades Humanas Essenciais para Evitar a Automação**
+![Prompt 2](assets/Prompt_2.png)
+
+---
+
+### 🎤 Apresentação Final
+
+**Guia de Carreiras Pormissoras - 2026**
+
+📎 [Baixar apresentação completa](assets/Apresentação_2026_Career_Roadmap.pdf)
 
 ---
 
